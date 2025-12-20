@@ -3,7 +3,7 @@
 ⚙️ Full stack by core, curious across domains<br>
 🚀 Keep things simple and continuously learning new skills<br>
 🤝 Let's connect: If you are building something interesting, I'm listening<br>
-⚡ Fun fact: I really enjoy watching anime (👒🍥) and playing video games
+⚡ Fun fact: I really enjoy watching anime (🏴‍☠️🍥) and playing video games
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/joseph-chiko-kasongo/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cdamberd@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/chiko_dk/)
