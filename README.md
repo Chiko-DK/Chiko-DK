@@ -6,7 +6,7 @@
 ⚡ Fun fact: I really enjoy watching anime (🏴‍☠️🍥) and playing video games
 
 ### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joseph-chiko-kasongo/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cdamberd@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chiko_dk/) ![Website🌐](https://joseph-kasongo.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joseph-chiko-kasongo/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cdamberd@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chiko_dk/) [![Website🌐](https://www.svgrepo.com/svg/447845/website-click)](https://joseph-kasongo.vercel.app/)
 
 # 💻 Tech Stack
 
