@@ -28,7 +28,8 @@
 ### Data Science & ML
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black)
 
-<!--# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chiko-DK&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)-->
+# 📊 GitHub Stats:
+<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chiko-DK&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)-->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chiko-DK&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
